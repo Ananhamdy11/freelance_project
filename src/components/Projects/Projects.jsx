@@ -1,25 +1,28 @@
 import React from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
+import project1 from "../../../public/assets/images/Frame 301.png";
+import project2 from "../../../public/assets/images/graduation project_.png"
+import project3 from "../../../public/assets/images/project3.png"
 
 const projects = [
   {
     title: "EATO FOOD DELIVERY",
     description:"It is an app competes Talabat, in addition to providingfood for your pet.Tools: using figma",
-    image:"public/assets/images/Frame 301.png",
+    image:project1,
     tech: "Figma • User Flow • Design System",
     demo: "https://www.figma.com/design/0Rq8fTG21x1Q0vn2dMT0qZ/eato-food?node-id=0-1&t=XhwnRc018VMscl9f-1",
   },
   {
     title: "ELDER PEOPLE BAND",
     description:"An app for the care of the elderly and those with chronic diseases by monitoring their vital signs and keeping them at home",
-    image: "public/assets/images/graduation project_.png",
+    image: project2,
     tech: "Figma • User Flow • Design System",
     demo: "https://www.figma.com/design/lltT4MDq2c6qL0UGrWC7OG/graduation-project-?node-id=0-1&t=6ZQycwPkqnmE1MTZ-1",
   },
   {
     title: "TRANSGO",
     description:"TransGo provides services such as cranes and maintenance.To know more, TransGo exists for the convenience of customers",
-    image: "public/assets/images/project3.png",
+    image: project3,
     tech: "Figma • User Flow • Design System",
     demo: "https://www.figma.com/design/5SL69eBUBvKbPHZM7bL8mk/final-project?node-id=0-1&t=OFzJaHiQ9XUAxmV3-1",
   },

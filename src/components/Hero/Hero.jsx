@@ -5,7 +5,7 @@ export default function Hero() {
   const handleScrollToProjects = () => {
     const section = document.getElementById("projects");
     if (section) {
-      section.scrollIntoView({ behavior: "auto" }); // بدون سكرول مرئي
+      section.scrollIntoView({ behavior: "auto" }); 
     }
   };
 
