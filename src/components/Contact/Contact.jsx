@@ -10,9 +10,7 @@ export default function Contact() {
     <section
       id="contact"
       className="contact-section py-5 text-light"
-      style={{
-        background: "linear-gradient(135deg, #2b1055, #7597de)",
-      }}
+     
     >
       <Container>
         <motion.h2
