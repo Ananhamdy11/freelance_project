@@ -1,5 +1,5 @@
 import './index.css'
-import './app.css'
+import './App.css'
 import Layout from './Layout/Layout'
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
